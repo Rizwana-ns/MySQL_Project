@@ -54,6 +54,8 @@ BOOKS table
 ∙Status [Give yes if book available and no if book not available] ∙
 Author
 ∙Publisher
+
+
 Write the queries for the following:
 1. Retrieve the book title, category, and rental price of all available
 books.
